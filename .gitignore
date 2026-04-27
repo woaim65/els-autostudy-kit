@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Local runtime state produced by the script
+.els_study_submit_state.json
+.els_study_submit.log
