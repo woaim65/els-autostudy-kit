@@ -1,5 +1,6 @@
 # ELS Autostudy Kit
 国寿e学 学分打卡专用 都是牛马，好用给星
+
 A small, practical automation kit for China Life ELS-style learner portals.
 
 It reuses an already logged-in browser session, discovers courses that still have study time left, submits progress through the learner API, and verifies the resulting chapter state. No password automation, no CAPTCHA bypass, no long-running model babysitting.
